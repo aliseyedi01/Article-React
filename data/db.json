@@ -1,0 +1,56 @@
+{
+  "articles": {
+    "status": true,
+    "message": "success",
+    "data": [
+      {
+        "id": 1,
+        "imageUrl": "",
+        "title": "first title",
+        "readingTime": 5
+      },
+      {
+        "id": 2,
+        "imageUrl": "",
+        "title": "second title",
+        "readingTime": 8
+      },
+      {
+        "id": 3,
+        "imageUrl": "",
+        "title": "third title",
+        "readingTime": 12
+      },
+      {
+        "id": 4,
+        "imageUrl": "",
+        "title": "forth title",
+        "readingTime": 1
+      },
+      {
+        "id": 5,
+        "imageUrl": "",
+        "title": "fifth title",
+        "readingTime": 8
+      },
+      {
+        "id": 6,
+        "imageUrl": "",
+        "title": "sixth title",
+        "readingTime": 11
+      },
+      {
+        "id": 7,
+        "imageUrl": "",
+        "title": "seventh title",
+        "readingTime": 17
+      },
+      {
+        "id": 8,
+        "imageUrl": "",
+        "title": "eighth title",
+        "readingTime": 30
+      }
+    ]
+  }
+}
