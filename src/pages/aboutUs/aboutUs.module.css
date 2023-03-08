@@ -1,15 +1,30 @@
 .aboutWrapper {
   margin: 0 5rem;
   height: 30rem;
+  text-align: left;
 }
 .aboutWrapper h2 {
   text-align: left;
   text-transform: capitalize;
+  margin-bottom: 2rem;
 }
 
-.aboutWrapper p {
-  text-align: left;
-  text-justify: auto;
-  text-transform: capitalize;
-  color: rgb(106, 129, 129);
+.imagesWrapper {
+  display: flex;
+  flex-direction: row;
+  column-gap: 1rem;
+}
+
+.imagesWrapper img {
+  width: 20rem;
+  height: 20rem;
+  border-radius: 5px;
+}
+
+.imagesWrapper p {
+  text-align: justify;
+  color: rgb(5, 42, 42);
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+  font-family: cursive;
 }

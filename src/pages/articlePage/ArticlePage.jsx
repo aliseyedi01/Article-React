@@ -1,6 +1,5 @@
 import Navbar from "../../components/navbar/Navbar";
 import styled from "./articlePage.module.css";
-import nature from "./../../assets/image/nature.jpg";
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import axios from "axios";
@@ -42,8 +41,10 @@ function ArticlePage() {
             <span>author : {article.author}</span>
             <span>read : {article.readingTime} minutes</span>
           </div>
-          <img src={nature} alt="nature" />
-          <p>{article.content}</p>
+          <div className={styled.imageWrapper}>
+            <img src={article.imageUrl} alt="nature" />
+            <p>{article.content}</p>
+          </div>
         </div>
       )}
     </div>

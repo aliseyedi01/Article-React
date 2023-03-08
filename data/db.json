@@ -2,75 +2,75 @@
   "articles": [
     {
       "id": 1,
-      "imageUrl": "",
-      "title": "first title",
+      "imageUrl": "https://images.pexels.com/photos/2416602/pexels-photo-2416602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Vancouver ",
       "readingTime": 5,
-      "date": "2022/02/12",
-      "author": "ali seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "date": "2020/02/12",
+      "author": "David Kim",
+      "content": "Vancouver is a coastal city in western Canada that is known for its natural beauty and diverse cultural offerings. It is consistently ranked as one of the most livable cities in the world, and it is easy to see why , The city is surrounded by mountains and water, which makes it a popular destination for outdoor enthusiasts. Visitors can hike in nearby parks, ski on the local mountains, or take a stroll along the seawall that surrounds the city. The Stanley Park seawall is a popular spot for both locals and visitors alike, offering stunning views of the city skyline and the surrounding mountains"
     },
     {
       "id": 2,
-      "imageUrl": "",
-      "title": "second title",
+      "imageUrl": "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "New York City",
       "readingTime": 8,
       "date": "2022/04/22",
-      "author": "david seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "author": "Jessica Nguyen",
+      "content": "New York City, also known as the Big Apple, is a bustling and vibrant metropolis located on the East Coast of the United States. It is the largest city in the country and is home to iconic landmarks like the Statue of Liberty, Central Park, and the Empire State Building. Visitors to New York City can experience a diverse range of cultural offerings, from Broadway shows and museums to world-renowned cuisine and shopping. "
     },
     {
       "id": 3,
-      "imageUrl": "",
-      "title": "third title",
-      "readingTime": 12,
-      "date": "2021/08/12",
-      "author": "lorem seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "imageUrl": "https://images.pexels.com/photos/306381/pexels-photo-306381.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Niagara Falls",
+      "readingTime": 2,
+      "date": "2010/08/12",
+      "author": "Michael Brown",
+      "content": "Niagara Falls is a stunning natural wonder that straddles the border between the United States and Canada. The falls consist of three separate waterfalls - Horseshoe Falls, American Falls, and Bridal Veil Falls - that together create the largest flow rate of any waterfall in the world. Visitors to Niagara Falls can experience the awe-inspiring power and beauty of the falls up close, either by taking a boat tour or walking along the scenic pathways that offer stunning views. The area around Niagara Falls also offers a range of other attractions, including casinos, museums, and restaurants. With its stunning natural beauty and range of attractions, Niagara Falls is a popular destination for travelers from around the world."
     },
     {
       "id": 4,
-      "imageUrl": "",
-      "title": "forth title",
-      "readingTime": 1,
-      "date": "2010/10/12",
-      "author": "akbar seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "imageUrl": "https://images.pexels.com/photos/2416600/pexels-photo-2416600.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Yellowstone National Park",
+      "readingTime": 7,
+      "date": "2030/10/12",
+      "author": "Sarah Patel",
+      "content": "Yellowstone National Park is a true natural wonder located primarily in Wyoming, USA. It was established in 1872 and is widely regarded as the first national park in the world. The park boasts a diverse array of wildlife, including grizzly bears, wolves, and herds of bison and elk. It is also home to a plethora of geothermal features such as hot springs, mud pots, and geysers, with the famous Old Faithful being the most popular. Yellowstone's natural beauty and unique features make it a top destination for nature lovers and outdoor enthusiasts alike."
     },
     {
       "id": 5,
-      "imageUrl": "",
-      "title": "fifth title",
-      "readingTime": 8,
-      "date": "2023/02/12",
-      "author": "ali seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "imageUrl": "https://images.pexels.com/photos/259967/pexels-photo-259967.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Machu Picchu",
+      "readingTime": 5,
+      "date": "1825/02/12",
+      "author": "James Lee",
+      "content": "Machu Picchu is a 15th-century Inca citadel located in the Andes Mountains of Peru. It is renowned for its stunning architecture, breathtaking scenery, and intriguing history. This remarkable place was rediscovered in 1911 by Hiram Bingham, an American archaeologist, and has since become one of the most popular tourist destinations in South America. With its terraced fields, stone structures, and panoramic views, Machu Picchu continues to captivate visitors from all over the world and remains a testament to the ingenuity and skill of the Inca civilization."
     },
     {
       "id": 6,
-      "imageUrl": "",
-      "title": "sixth title",
-      "readingTime": 11,
+      "imageUrl": "https://images.pexels.com/photos/196642/pexels-photo-196642.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "San Francisco",
+      "readingTime": 6,
       "date": "1995/02/12",
-      "author": "ali seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "author": "Maria Garcia",
+      "content": "San Francisco is a city unlike any other. Nestled on the coast of California, it boasts stunning views of the bay, rolling hills, and eclectic architecture. The city's unique cultural heritage is reflected in its diverse neighborhoods, each with its own character and charm. From the bustling streets of Chinatown to the trendy cafes of the Mission, San Francisco offers something for everyone. Whether you're a foodie, an art lover, or a history buff, you'll find plenty to explore in this vibrant city. With its iconic landmarks like the Golden Gate Bridge and Alcatraz Island, San Francisco is a must-see destination for travelers from all over the world."
     },
     {
       "id": 7,
-      "imageUrl": "",
-      "title": "seventh title",
-      "readingTime": 17,
-      "date": "2022/02/12",
-      "author": "ali seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "imageUrl": "https://images.pexels.com/photos/105950/pexels-photo-105950.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Miami",
+      "readingTime": 9,
+      "date": "2016/02/12",
+      "author": "William Davis",
+      "content": "Miami is a vibrant city located in the southeastern region of Florida. It is known for its beautiful beaches, warm weather, and diverse cultural scene. With its mix of Latin American, Caribbean, and American influences, Miami offers a unique blend of music, food, and art. The city is home to numerous world-class museums, including the Perez Art Museum and the Bass Museum of Art. It also boasts a thriving nightlife scene, with plenty of clubs and bars to explore. "
     },
     {
       "id": 8,
-      "imageUrl": "",
-      "title": "eighth title",
-      "readingTime": 30,
-      "date": "2022/02/12",
-      "author": "ali seyedi",
-      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+      "imageUrl": "https://images.pexels.com/photos/4288554/pexels-photo-4288554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Cancun",
+      "readingTime": 10,
+      "date": "2018/02/12",
+      "author": "Emily Johnson",
+      "content": "Cancun is a popular tourist destination located on the northeastern coast of the Yucatan Peninsula in Mexico. With its stunning beaches, crystal-clear waters, and vibrant nightlife, it's easy to see why it's a top vacation spot. The city offers a wide range of activities, from water sports like snorkeling and scuba diving to exploring ancient Mayan ruins. The Hotel Zone, a narrow strip of land surrounded by the Caribbean Sea and the Nichupte Lagoon, is home to many of Cancun's luxury resorts, restaurants, and nightclubs. Visitors can also venture outside the city to explore natural wonders like the stunning cenotes, underground rivers and caves filled with crystal-clear water, that dot the Yucatan Peninsula"
     }
   ]
 }

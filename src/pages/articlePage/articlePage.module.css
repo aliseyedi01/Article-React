@@ -1,19 +1,21 @@
 .articleWrapper {
-  text-align: center;
+  text-align: left;
   padding: 0 5rem;
 }
 
 .articleWrapper h1 {
   text-align: left;
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 0.8rem;
   text-transform: capitalize;
   font-size: 1.2rem;
 }
 .articleWrapper img {
-  width: 80%;
-  height: 20rem;
+  width: 30rem;
+  height: 30rem;
   margin-bottom: 0.8rem;
+  text-align: start;
+  border-radius: 5px;
 }
 
 .articleInfo {
@@ -24,11 +26,22 @@
 
 .articleInfo span {
   text-transform: capitalize;
-  margin-right: 0.8rem;
-  color: #777;
+  margin-right: 1.4rem;
+  color: #46078f;
+  font-family: Verdana;
+  font-size: 0.8rem;
+  font-weight: 400;
 }
 .articleWrapper p {
-  text-align: left;
-  text-transform: capitalize;
+  text-align: justify;
   color: #f70d0d;
+  line-height: 2.5rem;
+  font-size: 1.5rem;
+  direction: ltr;
+  font-weight: 300;
+  font-family: cursive;
+}
+.imageWrapper {
+  display: flex;
+  column-gap: 0.7rem;
 }
