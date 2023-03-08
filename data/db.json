@@ -1,56 +1,76 @@
 {
-  "articles": {
-    "status": true,
-    "message": "success",
-    "data": [
-      {
-        "id": 1,
-        "imageUrl": "",
-        "title": "first title",
-        "readingTime": 5
-      },
-      {
-        "id": 2,
-        "imageUrl": "",
-        "title": "second title",
-        "readingTime": 8
-      },
-      {
-        "id": 3,
-        "imageUrl": "",
-        "title": "third title",
-        "readingTime": 12
-      },
-      {
-        "id": 4,
-        "imageUrl": "",
-        "title": "forth title",
-        "readingTime": 1
-      },
-      {
-        "id": 5,
-        "imageUrl": "",
-        "title": "fifth title",
-        "readingTime": 8
-      },
-      {
-        "id": 6,
-        "imageUrl": "",
-        "title": "sixth title",
-        "readingTime": 11
-      },
-      {
-        "id": 7,
-        "imageUrl": "",
-        "title": "seventh title",
-        "readingTime": 17
-      },
-      {
-        "id": 8,
-        "imageUrl": "",
-        "title": "eighth title",
-        "readingTime": 30
-      }
-    ]
-  }
+  "articles": [
+    {
+      "id": 1,
+      "imageUrl": "",
+      "title": "first title",
+      "readingTime": 5,
+      "date": "2022/02/12",
+      "author": "ali seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    },
+    {
+      "id": 2,
+      "imageUrl": "",
+      "title": "second title",
+      "readingTime": 8,
+      "date": "2022/04/22",
+      "author": "david seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    },
+    {
+      "id": 3,
+      "imageUrl": "",
+      "title": "third title",
+      "readingTime": 12,
+      "date": "2021/08/12",
+      "author": "lorem seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    },
+    {
+      "id": 4,
+      "imageUrl": "",
+      "title": "forth title",
+      "readingTime": 1,
+      "date": "2010/10/12",
+      "author": "akbar seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    },
+    {
+      "id": 5,
+      "imageUrl": "",
+      "title": "fifth title",
+      "readingTime": 8,
+      "date": "2023/02/12",
+      "author": "ali seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    },
+    {
+      "id": 6,
+      "imageUrl": "",
+      "title": "sixth title",
+      "readingTime": 11,
+      "date": "1995/02/12",
+      "author": "ali seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    },
+    {
+      "id": 7,
+      "imageUrl": "",
+      "title": "seventh title",
+      "readingTime": 17,
+      "date": "2022/02/12",
+      "author": "ali seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    },
+    {
+      "id": 8,
+      "imageUrl": "",
+      "title": "eighth title",
+      "readingTime": 30,
+      "date": "2022/02/12",
+      "author": "ali seyedi",
+      "content": "Lorem ipsum dolor sit Lorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sitLorem ipsum dolor sit"
+    }
+  ]
 }

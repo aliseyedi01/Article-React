@@ -2,8 +2,8 @@ import styled from "./footer.module.css";
 
 function Footer() {
   return (
-    <div className={styled.footer}>
-      <h1>Footer site</h1>
+    <div className={styled.footerWrapper}>
+      <h2>Footer</h2>
     </div>
   );
 }

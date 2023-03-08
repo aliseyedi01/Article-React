@@ -1,0 +1,15 @@
+.aboutWrapper {
+  margin: 0 5rem;
+  height: 30rem;
+}
+.aboutWrapper h2 {
+  text-align: left;
+  text-transform: capitalize;
+}
+
+.aboutWrapper p {
+  text-align: left;
+  text-justify: auto;
+  text-transform: capitalize;
+  color: rgb(106, 129, 129);
+}

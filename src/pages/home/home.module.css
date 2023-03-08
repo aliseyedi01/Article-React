@@ -1,3 +1,7 @@
+.articleWrapper a {
+  width: 23%;
+}
+
 .title {
   text-align: left;
   margin-bottom: 0.5rem;

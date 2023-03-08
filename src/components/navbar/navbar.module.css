@@ -24,3 +24,7 @@
 .navbar ul li:hover {
   color: green;
 }
+
+a {
+  text-decoration: none;
+}

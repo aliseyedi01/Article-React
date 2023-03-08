@@ -1,0 +1,34 @@
+.articleWrapper {
+  text-align: center;
+  padding: 0 5rem;
+}
+
+.articleWrapper h1 {
+  text-align: left;
+  margin-top: 3rem;
+  margin-bottom: 0.8rem;
+  text-transform: capitalize;
+  font-size: 1.2rem;
+}
+.articleWrapper img {
+  width: 80%;
+  height: 20rem;
+  margin-bottom: 0.8rem;
+}
+
+.articleInfo {
+  display: flex;
+  justify-content: left;
+  margin-bottom: 0.8rem;
+}
+
+.articleInfo span {
+  text-transform: capitalize;
+  margin-right: 0.8rem;
+  color: #777;
+}
+.articleWrapper p {
+  text-align: left;
+  text-transform: capitalize;
+  color: #f70d0d;
+}
