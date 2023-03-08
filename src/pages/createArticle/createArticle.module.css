@@ -1,0 +1,27 @@
+.createArticle {
+  margin: 0 5rem;
+}
+
+.createArticle h1 {
+  text-align: left;
+  margin: 0.5rem 0;
+  text-transform: capitalize;
+  font-size: 1rem;
+}
+
+.buttonWrapper {
+  text-align: left;
+}
+
+.buttonWrapper button {
+  padding: 5px 10px;
+  background-color: cornflowerblue;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.buttonWrapper button:active {
+  opacity: 0.8;
+}

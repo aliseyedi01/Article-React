@@ -8,7 +8,9 @@ function Navbar() {
         <li>
           <Link to="/">Articles</Link>
         </li>
-        <li>New</li>
+        <li>
+          <Link to="/new">New</Link>
+        </li>
         <li>
           <Link to="/about">About</Link>
         </li>
